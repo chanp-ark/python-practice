@@ -29,6 +29,3 @@ reversed_difference = reverseNum(difference)
 
 print(f"The reverse difference is: {reversed_difference}")
 print(f"The sum of {difference} and {reversed_difference} is: {difference + reversed_difference}")
-
-
-
